@@ -1,0 +1,116 @@
+TASK 1
+my_1d_list'numbers' = [3,21,45,83]
+print (my_1d_list)
+for i in range(len(my_1d)list)):
+    print("My list at value" i "is:", my_1d_list)
+My list at value 0 is: 3
+My list at value 1 is: 21
+My list at value 2 is: 45
+My list at value 3 is: 83
+
+
+my_file=open("my_new_text_file.txt","w") 
+    for i in range(25)
+    my_file.close()
+
+my_file=open("my_new_text_file.txt","r") 
+    myfile:data=myfile.read
+    myfile.close()
+
+my_file=open("my_new_text_file.txt","a")
+    my_file.write(What number is it?")
+    my_file.close()
+
+TASK 2
+my_1d_list'mark_grade' = [a,b,c,d,e,f,u]
+print (my_1d_list)
+for each mark_grade in range(len(text)):
+    print("My mark_grade" i "is:", my_1d_list)
+My list at value 91-100 is: a
+My list at value 81-90 is: b
+My list at value 71-80 is: c
+My list at value 61-70 is: d
+My list at value 51-60 is: e
+My list at value 41-50 is: f
+My list at value <40 is: u
+main =input("what is your percentage mark?")
+secondary =("what is your target_grade?")
+if 91-100:
+    print("A")
+if 81-90:
+    print("B")
+if 71-80:
+    print("C")
+if 61-70:
+    print("D")
+ if 51-60:
+    print("E")
+if 41-50:
+    print("F")
+if <40:
+    print("U")
+
+if target_grade is > mark_grade
+    print ("Excellent")
+if target_grade is = mark_grade
+    print ("Well done for meeting your target.")
+if target_grade is < mark_grade
+    print ("you did not meet the required pass mark, please register for a resit exam.")
+
+NumPy
+TASK 1
+
+array=np.array([0,1,2,3,4,5,6,7,8,9])
+My list at value 0 is: 1
+My list at value 1 is: 2
+My list at value 2 is: 3
+My list at value 3 is: 4
+My list at value 4 is: 5
+My list at value 5 is: 6
+My list at value 6 is: 7
+My list at value 7 is: 8
+My list at value 8 is: 9
+My list at value 9 is: 10
+
+TASK 2
+
+a =np.arrange (1,10).reshape (3,3)
+b =np.arrange (10,19).reshape (3,3)
+c =np.dot(a,b)
+print(c)
+
+TASK 3
+import NumPy as np
+odd =np.arrange (10)
+print(odd)
+
+TASK 4
+
+array=np.array([0,1,2,3,4,5,6,7,8,9])
+replce =odd_with_-1
+
+TASK 5
+import NumPy as np
+array=np.array([0,1,2,3,4,5,6,7,8,9])
+My list at value 0 is: 1
+My list at value 1 is: 2
+My list at value 2 is: 3
+My list at value 3 is: 4
+My list at value 4 is: 5
+My list at value 5 is: 6
+My list at value 6 is: 7
+My list at value 7 is: 8
+My list at value 8 is: 9
+My list at value 9 is: 10
+
+random =np.random.rand(2,2)
+print(random)
+
+TASK 6
+a =np.arrange (1,4).reshape (2,2)
+b =np.arrange (5,10).reshape (2,2)
+c =np.dot(a,b)
+sum =np.sum(c)
+print(sum)
+
+
