@@ -1,0 +1,27 @@
+create table Car_details(car_id integer, make varchar(100), model varchar(100), reg varchar(100), colour varchar(100));
+insert into Car_details(car_id, make, model, reg, colour) values(1, "BMW", "3 series", "ew45 uyt", "black");
+(2, "Fiat", "Punto", "ew96 qaz", "Pink");
+(3, "Ford", "Sprinter", "hg45 cvs", "yellow");
+(4, "Renault", "Captur", "nb97 kgo", "grey");
+(5, "Mazda", "Don", "op12 qat", "silver");
+(6, "Daewoo", "Basanti", "ks19 CFV", "blue");
+(7, "Audi", "TT", "pl87 bmj", "green");
+(8, "VW", "Passat", "xc16 sdf", "brown");
+(9, "VW", "Touran", "pl15 mnb", "purple");
+(10, "Volvo", "Dune", "vg20 sjq", "magenta");
+update Car_details
+set colour = "pink"
+where car_id = 1;
+delete from Car_details
+where car_id = "4";
+use cars;
+select * from Car_details order by make;
+use cars;
+select make, model from ar_details
+order by make, model;
+use cars;
+selec * from Car_details
+where car_id = 1, 2, 3, 4, 5, 6, 7, 8,9, 10;
+select * from Car_details;
+-- Your code here!
+
