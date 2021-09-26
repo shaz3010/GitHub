@@ -1,0 +1,44 @@
+R version 4.1.0 (2021-05-18) -- "Camp Pontanezen"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> 
+> # Read data
+> Task2 <-read.xlsx('Task2.xlsx')
+Error in read.xlsx("Task2.xlsx") : could not find function "read.xlsx"
+> # Read data
+> Task2 <-read.csv('Task2.csv')
+> str(Task2)
+'data.frame':	6 obs. of  4 variables:
+ $ Name             : chr  "Tim" "Gary" "Matt" "David" ...
+ $ Age              : int  45 23 34 19 26 31
+ $ Role             : chr  "Manager" "CSA" "CSA" "Deputy Manager" ...
+ $ Length.of.service: int  2 1 3 5 4 6
+> hist.default(Task2$Name)
+Error in hist.default(Task2$Name) : 'x' must be numeric
+> hist(Task2$Name)
+Error in hist.default(Task2$Name) : 'x' must be numeric
+> hist(Task2$Length.of.service)
+> plot(x<-c1,2,3,4,5)
+Error in plot(x <- c1, 2, 3, 4, 5) : object 'c1' not found
+> plot(x<-1,2,3,4,5)
+Error in plot.window(...) : invalid 'xlim' value
+> hist(Task2$Length.of.service)
+> data.frame(row.names = names('Tim', 'Gary', 'Matt', 'David'))
+Error in names("Tim", "Gary", "Matt", "David") : 
+  4 arguments passed to 'names' which requires 1
+> # Read data
+> 
