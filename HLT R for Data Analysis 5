@@ -1,0 +1,5 @@
+"hello, what is your name?"
+print("Shaz")
+"what is your age?"
+print("41")
+
