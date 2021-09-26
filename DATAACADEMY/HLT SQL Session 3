@@ -1,0 +1,26 @@
+create table1 Tesco(Customer_id integer, CustomerName varchar(100), City varchar(100), OrderID varchar(100), OrderPrice varchar(100));
+insert into table1(CustomerID, CustomerName, City, OrderID, OrderPrice) values(1, "1", "Sandy", "London", "39475", "16.99");
+(2, "2", "Tom", "London", "15263", "82.58");
+(3, "3", "Freddie", "London", "53.17");
+(4, "4", "Rose", "London", "30.29");
+(5, "5", "Mandy", "London", "96.36");
+
+create table2 Asda(Customer_id integer, CustomerName varchar(100), City varchar(100), OrderID varchar(100), OrderPrice varchar(100));
+insert into table1(CustomerID, CustomerName, City, OrderID, OrderPrice) values(1, "1", "Sally", "Birmingham", "39475", "15.99");
+(2, "2", "Tim", "Birmingham", "15263", "72.58");
+(3, "3", "Frankie", "Birmingham", "23.17");
+(4, "4", "Randy", "Birmingham", "40.29");
+(5, "5", "Melissa", "Birmingham", "56.36");
+select column_name(s)
+from table1
+inner join table2
+on table1.column_name = 
+table2.column_name;
+select customers.CustomerID, Orders.OrderID
+from customer
+inner join Orders
+on customers.CustomerID = Orders.OrderID
+select*from customers, orders
+where customers.customerID = orders.OrderID and ordersPrice = "82.58";
+select*from orders
+where ProductPrice between 35 and 120;
