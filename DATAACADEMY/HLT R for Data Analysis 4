@@ -1,0 +1,10 @@
+> barplot.default(Maths=TRUE, English=TRUE, Arabic=TRUE, German=TRUE,French=TRUE)
+Error in barplot.default(Maths = TRUE, English = TRUE, Arabic = TRUE,  : 
+  argument "height" is missing, with no default
+> barplot.default(height = default.stringsAsFactors); (Maths=TRUE, English=TRUE, Arabic=TRUE, German=TRUE,French=TRUE)
+Error in barplot.default(height = default.stringsAsFactors) : 
+  'height' must be a vector or a matrix
+> x<-c(1,2,3,4,5)
+> show(barplot(height = FALSE))
+     [,1]
+[1,]  0.7
