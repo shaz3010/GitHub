@@ -1,0 +1,99 @@
+
+R version 4.1.0 (2021-05-18) -- "Camp Pontanezen"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Read data
+> UNdata <-read.csv('UNdata.csv')
+> hist(lcm(7/20))
+Error in hist.default(lcm(7/20)) : 'x' must be numeric
+> str(Country or Area)
+Error: unexpected symbol in "str(Country or"
+> str(UNdata)
+'data.frame':	1571 obs. of  7 variables:
+ $ Country.or.Area: chr  "Afghanistan" "Afghanistan" "Afghanistan" "Afghanistan" ...
+ $ Subgroup       : chr  "Female" "Female" "Female" "Female" ...
+ $ Year           : chr  "2000-2005" "1995-2000" "1990-1995" "1985-1990" ...
+ $ Source         : chr  "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" ...
+ $ Unit           : chr  "Years" "Years" "Years" "Years" ...
+ $ Value          : int  42 42 42 41 42 42 42 41 79 76 ...
+ $ Value.Footnotes: int  NA NA NA NA NA NA NA NA NA NA ...
+> hist(UNdata$Country.or.Area)
+Error in hist.default(UNdata$Country.or.Area) : 'x' must be numeric
+> hist(UNdata'lc')
+Error: unexpected string constant in "hist(UNdata'lc'"
+> hist(UNdata$Subgroup)
+Error in hist.default(UNdata$Subgroup) : 'x' must be numeric
+> hist(ce$Subgroup)
+Error in hist(ce$Subgroup) : object 'ce' not found
+> we <- as.numeric(we)      # turn into numbers
+Error: object 'we' not found
+> hist(Country.or.Area$lc)
+Error in hist(Country.or.Area$lc) : object 'Country.or.Area' not found
+> hist($lcCountry.or.Area)
+Error: unexpected '$' in "hist($"
+> hist(lcCountry.or.Area)
+Error in hist(lcCountry.or.Area) : object 'lcCountry.or.Area' not found
+> hist
+function (x, ...) 
+UseMethod("hist")
+<bytecode: 0x55e118cdd958>
+<environment: namespace:graphics>
+> hist(x,y)
+Error in hist(x, y) : object 'x' not found
+>   UseMethod('hist')
+Error in UseMethod("hist") : 'UseMethod' used in an inappropriate fashion
+>   UseMethod('histSubgroup')
+Error in UseMethod("histSubgroup") : 
+  'UseMethod' used in an inappropriate fashion
+> {'cell_type': 'markdown', 'execution_count': None, 'metadata': {'dc': {'key': '4'}
+Error: unexpected ',' in "{'cell_type': 'markdown',"
+> str(UNdata)
+'data.frame':	1571 obs. of  7 variables:
+ $ Country.or.Area: chr  "Afghanistan" "Afghanistan" "Afghanistan" "Afghanistan" ...
+ $ Subgroup       : chr  "Female" "Female" "Female" "Female" ...
+ $ Year           : chr  "2000-2005" "1995-2000" "1990-1995" "1985-1990" ...
+ $ Source         : chr  "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" "UNPD_World Population Prospects_2006 (International estimate)" ...
+ $ Unit           : chr  "Years" "Years" "Years" "Years" ...
+ $ Value          : int  42 42 42 41 42 42 42 41 79 76 ...
+ $ Value.Footnotes: int  NA NA NA NA NA NA NA NA NA NA ...
+> hist(plot(x,y))
+Error in plot(x, y) : object 'x' not found
+> hist(Country.or.Area:chr$lc)
+Error in hist(Country.or.Area:chr$lc) : 
+  object 'Country.or.Area' not found
+> hist(Country.or.Area$lc)
+Error in hist(Country.or.Area$lc) : object 'Country.or.Area' not found
+> hist(UNdata$Country.or.Area)
+Error in hist.default(UNdata$Country.or.Area) : 'x' must be numeric
+> # Read data
+> UNdata <-read.csv('UNdata.csv')
+> # Read data
+> UNdata <-read.csv('UNdata.csv')
+> hist(UNdata$Value)
+> hist(UNdata$Value, UNdata$Subgroup)
+Error in r[i1] - r[-length(r):-(length(r) - lag + 1L)] : 
+  non-numeric argument to binary operator
+> hist(UNdata$Value,UNdata$Subgroup)
+Error in r[i1] - r[-length(r):-(length(r) - lag + 1L)] : 
+  non-numeric argument to binary operator
+> hist(UNdata$Value;UNdata$Subgroup)
+Error: unexpected ';' in "hist(UNdata$Value;"
+> hist(UNdata$Value, +1UNdata$Subgroup)
+Error: unexpected symbol in "hist(UNdata$Value, +1UNdata"
+> +1(UNdata$Subgroup)
+Error: attempt to apply non-function
+> # Read data
+> UNdata <-read.csv('UNdata.csv')
