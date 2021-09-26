@@ -1,0 +1,1000 @@
+
+trying URL 'http://package-proxy/focal/src/contrib/curl_4.3.2.tar.gz'
+Content type 'application/x-tar' length 906109 bytes (884 KB)
+==================================================
+downloaded 884 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/mime_0.11.tar.gz'
+Content type 'application/x-tar' length 37299 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/openssl_1.4.5.tar.gz'
+Content type 'application/x-tar' length 1494983 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/purrr_0.3.4.tar.gz'
+Content type 'application/x-tar' length 437210 bytes (426 KB)
+==================================================
+downloaded 426 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/png_0.1-7.tar.gz'
+Content type 'application/x-tar' length 58994 bytes (57 KB)
+==================================================
+downloaded 57 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/jpeg_0.1-9.tar.gz'
+Content type 'application/x-tar' length 52053 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/checkmate_2.0.0.tar.gz'
+Content type 'application/x-tar' length 709213 bytes (692 KB)
+==================================================
+downloaded 692 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rstudioapi_0.13.tar.gz'
+Content type 'application/x-tar' length 272547 bytes (266 KB)
+==================================================
+downloaded 266 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/fastmap_1.1.0.tar.gz'
+Content type 'application/x-tar' length 242414 bytes (236 KB)
+==================================================
+downloaded 236 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/stringi_1.7.4.tar.gz'
+Content type 'application/x-tar' length 3238024 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/zoo_1.8-9.tar.gz'
+Content type 'application/x-tar' length 1030885 bytes (1006 KB)
+==================================================
+downloaded 1006 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/matrixStats_0.61.0.tar.gz'
+Content type 'application/x-tar' length 677787 bytes (661 KB)
+==================================================
+downloaded 661 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/RcppArmadillo_0.10.6.0.0.tar.gz'
+Content type 'application/x-tar' length 2337018 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/e1071_1.7-9.tar.gz'
+Content type 'application/x-tar' length 924711 bytes (903 KB)
+==================================================
+downloaded 903 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/wk_0.5.0.tar.gz'
+Content type 'application/x-tar' length 1026627 bytes (1002 KB)
+==================================================
+downloaded 1002 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rprojroot_2.0.2.tar.gz'
+Content type 'application/x-tar' length 97173 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rematch2_2.1.2.tar.gz'
+Content type 'application/x-tar' length 45068 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/farver_2.1.0.tar.gz'
+Content type 'application/x-tar' length 2618453 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/labeling_0.4.2.tar.gz'
+Content type 'application/x-tar' length 60899 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'http://cran.rstudio.org/src/contrib/lifecycle_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 99716 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/R6_2.5.1.tar.gz'
+Content type 'application/x-tar' length 82460 bytes (80 KB)
+==================================================
+downloaded 80 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/viridisLite_0.4.0.tar.gz'
+Content type 'application/x-tar' length 1296703 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/ellipsis_0.3.2.tar.gz'
+Content type 'application/x-tar' length 40598 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/fansi_0.5.0.tar.gz'
+Content type 'application/x-tar' length 281443 bytes (274 KB)
+==================================================
+downloaded 274 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/magrittr_2.0.1.tar.gz'
+Content type 'application/x-tar' length 225463 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'http://cran.rstudio.org/src/contrib/pillar_1.6.3.tar.gz'
+Content type 'application/x-gzip' length 1130236 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/pkgconfig_2.0.3.tar.gz'
+Content type 'application/x-tar' length 19321 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/vctrs_0.3.8.tar.gz'
+Content type 'application/x-tar' length 1628751 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/jsonlite_1.7.2.tar.gz'
+Content type 'application/x-tar' length 536841 bytes (524 KB)
+==================================================
+downloaded 524 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rex_1.2.0.tar.gz'
+Content type 'application/x-tar' length 120669 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/httr_1.4.2.tar.gz'
+Content type 'application/x-tar' length 511264 bytes (499 KB)
+==================================================
+downloaded 499 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/crayon_1.4.1.tar.gz'
+Content type 'application/x-tar' length 138732 bytes (135 KB)
+==================================================
+downloaded 135 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/yaml_2.2.1.tar.gz'
+Content type 'application/x-tar' length 284365 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/systemfonts_1.0.2.tar.gz'
+Content type 'application/x-tar' length 2245242 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/textshaping_0.3.5.tar.gz'
+Content type 'application/x-tar' length 849088 bytes (829 KB)
+==================================================
+downloaded 829 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/generics_0.1.0.tar.gz'
+Content type 'application/x-tar' length 68405 bytes (66 KB)
+==================================================
+downloaded 66 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/tidyselect_1.1.1.tar.gz'
+Content type 'application/x-tar' length 201688 bytes (196 KB)
+==================================================
+downloaded 196 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/Formula_1.2-4.tar.gz'
+Content type 'application/x-tar' length 175573 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/latticeExtra_0.6-29.tar.gz'
+Content type 'application/x-tar' length 2202122 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/gridExtra_2.3.tar.gz'
+Content type 'application/x-tar' length 1103966 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/data.table_1.14.0.tar.gz'
+Content type 'application/x-tar' length 2637031 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/htmlTable_2.2.1.tar.gz'
+Content type 'application/x-tar' length 403708 bytes (394 KB)
+==================================================
+downloaded 394 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/viridis_0.6.1.tar.gz'
+Content type 'application/x-tar' length 3019621 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/htmltools_0.5.2.tar.gz'
+Content type 'application/x-tar' length 340730 bytes (332 KB)
+==================================================
+downloaded 332 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/base64enc_0.1-3.tar.gz'
+Content type 'application/x-tar' length 38671 bytes (37 KB)
+==================================================
+downloaded 37 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/Rcpp_1.0.7.tar.gz'
+Content type 'application/x-tar' length 4188676 bytes (4.0 MB)
+==================================================
+downloaded 4.0 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/deldir_0.2-10.tar.gz'
+Content type 'application/x-tar' length 311117 bytes (303 KB)
+==================================================
+downloaded 303 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/RcppEigen_0.3.3.9.1.tar.gz'
+Content type 'application/x-tar' length 7602247 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/evaluate_0.14.tar.gz'
+Content type 'application/x-tar' length 74818 bytes (73 KB)
+==================================================
+downloaded 73 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/highr_0.9.tar.gz'
+Content type 'application/x-tar' length 39077 bytes (38 KB)
+==================================================
+downloaded 38 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/stringr_1.4.0.tar.gz'
+Content type 'application/x-tar' length 210264 bytes (205 KB)
+==================================================
+downloaded 205 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/xfun_0.26.tar.gz'
+Content type 'application/x-tar' length 349220 bytes (341 KB)
+==================================================
+downloaded 341 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/sp_1.4-5.tar.gz'
+Content type 'application/x-tar' length 1869162 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/mvtnorm_1.1-2.tar.gz'
+Content type 'application/x-tar' length 264582 bytes (258 KB)
+==================================================
+downloaded 258 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/TH.data_1.0-10.tar.gz'
+Content type 'application/x-tar' length 8471489 bytes (8.1 MB)
+==================================================
+downloaded 8.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/sandwich_3.0-1.tar.gz'
+Content type 'application/x-tar' length 1488081 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/colorspace_2.0-2.tar.gz'
+Content type 'application/x-tar' length 2623409 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/htmlwidgets_1.5.4.tar.gz'
+Content type 'application/x-tar' length 902364 bytes (881 KB)
+==================================================
+downloaded 881 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/SparseM_1.81.tar.gz'
+Content type 'application/x-tar' length 1101310 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/MatrixModels_0.5-0.tar.gz'
+Content type 'application/x-tar' length 444321 bytes (433 KB)
+==================================================
+downloaded 433 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/conquer_1.0.2.tar.gz'
+Content type 'application/x-tar' length 1290908 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/tinytex_0.33.tar.gz'
+Content type 'application/x-tar' length 122458 bytes (119 KB)
+==================================================
+downloaded 119 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/jquerylib_0.1.4.tar.gz'
+Content type 'application/x-tar' length 527358 bytes (514 KB)
+==================================================
+downloaded 514 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/classInt_0.4-3.tar.gz'
+Content type 'application/x-tar' length 456959 bytes (446 KB)
+==================================================
+downloaded 446 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/DBI_1.1.1.tar.gz'
+Content type 'application/x-tar' length 675521 bytes (659 KB)
+==================================================
+downloaded 659 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/s2_1.0.6.tar.gz'
+Content type 'application/x-tar' length 19405066 bytes (18.5 MB)
+==================================================
+downloaded 18.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/units_0.7-2.tar.gz'
+Content type 'application/x-tar' length 1431113 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/cpp11_0.4.0.tar.gz'
+Content type 'application/x-tar' length 309526 bytes (302 KB)
+==================================================
+downloaded 302 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/brio_1.1.2.tar.gz'
+Content type 'application/x-tar' length 42668 bytes (41 KB)
+==================================================
+downloaded 41 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/callr_3.7.0.tar.gz'
+Content type 'application/x-tar' length 436608 bytes (426 KB)
+==================================================
+downloaded 426 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/cli_3.0.1.tar.gz'
+Content type 'application/x-tar' length 727226 bytes (710 KB)
+==================================================
+downloaded 710 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/desc_1.3.0.tar.gz'
+Content type 'application/x-tar' length 529370 bytes (516 KB)
+==================================================
+downloaded 516 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/pkgload_1.2.2.tar.gz'
+Content type 'application/x-tar' length 153377 bytes (149 KB)
+==================================================
+downloaded 149 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/praise_1.0.0.tar.gz'
+Content type 'application/x-tar' length 16471 bytes (16 KB)
+==================================================
+downloaded 16 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/processx_3.5.2.tar.gz'
+Content type 'application/x-tar' length 422564 bytes (412 KB)
+==================================================
+downloaded 412 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/ps_1.6.0.tar.gz'
+Content type 'application/x-tar' length 363929 bytes (355 KB)
+==================================================
+downloaded 355 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/waldo_0.3.1.tar.gz'
+Content type 'application/x-tar' length 94977 bytes (92 KB)
+==================================================
+downloaded 92 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/diffobj_0.3.4.tar.gz'
+Content type 'application/x-tar' length 1008812 bytes (985 KB)
+==================================================
+downloaded 985 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/digest_0.6.28.tar.gz'
+Content type 'application/x-tar' length 358238 bytes (349 KB)
+==================================================
+downloaded 349 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/glue_1.4.2.tar.gz'
+Content type 'application/x-tar' length 144898 bytes (141 KB)
+==================================================
+downloaded 141 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/gtable_0.3.0.tar.gz'
+Content type 'application/x-tar' length 431056 bytes (420 KB)
+==================================================
+downloaded 420 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/isoband_0.2.5.tar.gz'
+Content type 'application/x-tar' length 4295308 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/rlang_0.4.11.tar.gz'
+Content type 'application/x-tar' length 1424974 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/scales_1.1.1.tar.gz'
+Content type 'application/x-tar' length 555931 bytes (542 KB)
+==================================================
+downloaded 542 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/tibble_3.1.4.tar.gz'
+Content type 'application/x-tar' length 858206 bytes (838 KB)
+==================================================
+downloaded 838 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/withr_2.4.2.tar.gz'
+Content type 'application/x-tar' length 210596 bytes (205 KB)
+==================================================
+downloaded 205 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/covr_3.5.1.tar.gz'
+Content type 'application/x-tar' length 292712 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/ragg_1.1.3.tar.gz'
+Content type 'application/x-tar' length 2636440 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/dplyr_1.0.7.tar.gz'
+Content type 'application/x-tar' length 1283312 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2movies_0.0.1.tar.gz'
+Content type 'application/x-tar' length 1247042 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/hexbin_1.28.2.tar.gz'
+Content type 'application/x-tar' length 1474128 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/Hmisc_4.5-0.tar.gz'
+Content type 'application/x-tar' length 3240992 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/interp_1.0-33.tar.gz'
+Content type 'application/x-tar' length 7566671 bytes (7.2 MB)
+==================================================
+downloaded 7.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/knitr_1.34.tar.gz'
+Content type 'application/x-tar' length 1428379 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/mapproj_1.2.7.tar.gz'
+Content type 'application/x-tar' length 90749 bytes (88 KB)
+==================================================
+downloaded 88 KB
+
+trying URL 'http://cran.rstudio.org/src/contrib/maps_3.4.0.tar.gz'
+Content type 'application/x-gzip' length 2278225 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/maptools_1.1-2.tar.gz'
+Content type 'application/x-tar' length 2215835 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/multcomp_1.4-17.tar.gz'
+Content type 'application/x-tar' length 725764 bytes (708 KB)
+==================================================
+downloaded 708 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/munsell_0.5.0.tar.gz'
+Content type 'application/x-tar' length 241979 bytes (236 KB)
+==================================================
+downloaded 236 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/profvis_0.3.7.tar.gz'
+Content type 'application/x-tar' length 183558 bytes (179 KB)
+==================================================
+downloaded 179 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/quantreg_5.86.tar.gz'
+Content type 'application/x-tar' length 1652716 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/RColorBrewer_1.1-2.tar.gz'
+Content type 'application/x-tar' length 52957 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rgeos_0.5-8.tar.gz'
+Content type 'application/x-tar' length 810873 bytes (791 KB)
+==================================================
+downloaded 791 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/rmarkdown_2.11.tar.gz'
+Content type 'application/x-tar' length 3628231 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/sf_1.0-2.tar.gz'
+Content type 'application/x-tar' length 8384657 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/svglite_2.0.0.tar.gz'
+Content type 'application/x-tar' length 712219 bytes (695 KB)
+==================================================
+downloaded 695 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/testthat_3.0.4.tar.gz'
+Content type 'application/x-tar' length 3587038 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'http://package-proxy/focal/src/contrib/vdiffr_1.0.2.tar.gz'
+Content type 'application/x-tar' length 679925 bytes (663 KB)
+==================================================
+downloaded 663 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/xml2_1.3.2.tar.gz'
+Content type 'application/x-tar' length 624481 bytes (609 KB)
+==================================================
+downloaded 609 KB
+
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘sys’ ...
+* DONE (sys)
+* installing *binary* package ‘backports’ ...
+* DONE (backports)
+* installing *binary* package ‘proxy’ ...
+* DONE (proxy)
+* installing *binary* package ‘utf8’ ...
+* DONE (utf8)
+* installing *binary* package ‘lazyeval’ ...
+* DONE (lazyeval)
+* installing *binary* package ‘curl’ ...
+* DONE (curl)
+* installing *binary* package ‘mime’ ...
+* DONE (mime)
+* installing *binary* package ‘png’ ...
+* DONE (png)
+* installing *binary* package ‘jpeg’ ...
+* DONE (jpeg)
+* installing *binary* package ‘rstudioapi’ ...
+* DONE (rstudioapi)
+* installing *binary* package ‘fastmap’ ...
+* DONE (fastmap)
+* installing *binary* package ‘stringi’ ...
+* DONE (stringi)
+* installing *binary* package ‘zoo’ ...
+* DONE (zoo)
+* installing *binary* package ‘matrixStats’ ...
+* DONE (matrixStats)
+* installing *binary* package ‘rprojroot’ ...
+* DONE (rprojroot)
+* installing *binary* package ‘farver’ ...
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* DONE (labeling)
+* installing *binary* package ‘R6’ ...
+* DONE (R6)
+* installing *binary* package ‘viridisLite’ ...
+* DONE (viridisLite)
+* installing *binary* package ‘fansi’ ...
+* DONE (fansi)
+* installing *binary* package ‘magrittr’ ...
+* DONE (magrittr)
+* installing *binary* package ‘pkgconfig’ ...
+* DONE (pkgconfig)
+* installing *binary* package ‘jsonlite’ ...
+* DONE (jsonlite)
+* installing *binary* package ‘crayon’ ...
+* DONE (crayon)
+* installing *binary* package ‘yaml’ ...
+* DONE (yaml)
+* installing *binary* package ‘generics’ ...
+* DONE (generics)
+* installing *binary* package ‘Formula’ ...
+* DONE (Formula)
+* installing *binary* package ‘data.table’ ...
+* DONE (data.table)
+* installing *binary* package ‘base64enc’ ...
+* DONE (base64enc)
+* installing *binary* package ‘Rcpp’ ...
+* DONE (Rcpp)
+* installing *binary* package ‘deldir’ ...
+* DONE (deldir)
+* installing *binary* package ‘evaluate’ ...
+* DONE (evaluate)
+* installing *binary* package ‘xfun’ ...
+* DONE (xfun)
+* installing *binary* package ‘sp’ ...
+* DONE (sp)
+* installing *binary* package ‘mvtnorm’ ...
+* DONE (mvtnorm)
+* installing *binary* package ‘TH.data’ ...
+* DONE (TH.data)
+* installing *binary* package ‘colorspace’ ...
+* DONE (colorspace)
+* installing *binary* package ‘SparseM’ ...
+* DONE (SparseM)
+* installing *binary* package ‘MatrixModels’ ...
+* DONE (MatrixModels)
+* installing *binary* package ‘DBI’ ...
+* DONE (DBI)
+* installing *binary* package ‘cpp11’ ...
+* DONE (cpp11)
+* installing *binary* package ‘brio’ ...
+* DONE (brio)
+* installing *binary* package ‘praise’ ...
+* DONE (praise)
+* installing *binary* package ‘ps’ ...
+* DONE (ps)
+* installing *binary* package ‘digest’ ...
+* DONE (digest)
+* installing *binary* package ‘glue’ ...
+* DONE (glue)
+* installing *binary* package ‘gtable’ ...
+* DONE (gtable)
+* installing *binary* package ‘isoband’ ...
+* DONE (isoband)
+* installing *binary* package ‘rlang’ ...
+* DONE (rlang)
+* installing *binary* package ‘withr’ ...
+* DONE (withr)
+* installing *binary* package ‘ggplot2movies’ ...
+* DONE (ggplot2movies)
+* installing *binary* package ‘hexbin’ ...
+* DONE (hexbin)
+* installing *source* package ‘maps’ ...
+** package ‘maps’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gawk... no
+checking for mawk... mawk
+configure: creating ./config.status
+config.status: creating src/Makefile
+** libs
+** arch - 
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile init.o mapclip.o mapget.o smooth.o thin.o 
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+gcc -I"/opt/R/4.1.0/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2  -c init.c -o init.o
+gcc -I"/opt/R/4.1.0/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2  -c mapclip.c -o mapclip.o
+gcc -I"/opt/R/4.1.0/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2  -c mapget.c -o mapget.o
+gcc -I"/opt/R/4.1.0/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2  -c smooth.c -o smooth.o
+gcc -I"/opt/R/4.1.0/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2  -c thin.c -o thin.o
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+"/opt/R/4.1.0/lib/R/bin/R" CMD SHLIB -o maps.so init.o mapclip.o mapget.o smooth.o thin.o 
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+gcc -shared -L/opt/R/4.1.0/lib/R/lib -L/usr/local/lib -o maps.so init.o mapclip.o mapget.o smooth.o thin.o -L/opt/R/4.1.0/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile Gmake
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+gcc -g -O2  -I/usr/local/include -L/usr/local/lib  Gmake.c   -o Gmake
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile Lmake
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+gcc -g -O2  -I/usr/local/include -L/usr/local/lib  Lmake.c   -o Lmake
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile world2.line
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+Converting world to world2
+mawk -f ./convert.awk < world.line > world2.line
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile county.L state.L usa.L nz.L world.L world2.L italy.L france.L state.vbm.L state.carto.L lakes.L
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+./Lmake 0 s b county.line county.linestats ../inst/mapdata/county.L
+./Lmake 0 s b state.line state.linestats ../inst/mapdata/state.L
+./Lmake 0 s b usa.line usa.linestats ../inst/mapdata/usa.L
+./Lmake 0 s b nz.line nz.linestats ../inst/mapdata/nz.L
+./Lmake 0 s b world.line world.linestats ../inst/mapdata/world.L
+./Lmake 0 s b world2.line world2.linestats ../inst/mapdata/world2.L
+./Lmake 0 s b italy.line italy.linestats ../inst/mapdata/italy.L
+./Lmake 0 s b france.line france.linestats ../inst/mapdata/france.L
+./Lmake 0 p b state.vbm.line state.vbm.linestats ../inst/mapdata/state.vbm.L
+./Lmake 0 p b state.carto.line state.carto.linestats ../inst/mapdata/state.carto.L
+./Lmake 0 s b lakes.line lakes.linestats ../inst/mapdata/lakes.L
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile county.G state.G usa.G nz.G world.G world2.G italy.G france.G state.vbm.G state.carto.G lakes.G
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+./Gmake b county.gon county.gonstats ../inst/mapdata/county.G ../inst/mapdata/county.L
+./Gmake b state.gon state.gonstats ../inst/mapdata/state.G ../inst/mapdata/state.L
+./Gmake b usa.gon usa.gonstats ../inst/mapdata/usa.G ../inst/mapdata/usa.L
+./Gmake b nz.gon nz.gonstats ../inst/mapdata/nz.G ../inst/mapdata/nz.L
+./Gmake b world.gon world.gonstats ../inst/mapdata/world.G ../inst/mapdata/world.L
+./Gmake b world2.gon world2.gonstats ../inst/mapdata/world2.G ../inst/mapdata/world2.L
+./Gmake b italy.gon italy.gonstats ../inst/mapdata/italy.G ../inst/mapdata/italy.L
+./Gmake b france.gon france.gonstats ../inst/mapdata/france.G ../inst/mapdata/france.L
+./Gmake b state.vbm.gon state.vbm.gonstats ../inst/mapdata/state.vbm.G ../inst/mapdata/state.vbm.L
+./Gmake b state.carto.gon state.carto.gonstats ../inst/mapdata/state.carto.G ../inst/mapdata/state.carto.L
+./Gmake b lakes.gon lakes.gonstats ../inst/mapdata/lakes.G ../inst/mapdata/lakes.L
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make -f "/opt/R/4.1.0/lib/R/etc/Makeconf" -f Makefile county.N state.N usa.N nz.N world.N world2.N italy.N france.N state.vbm.N state.carto.N lakes.N
+make[1]: Entering directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+make[1]: Leaving directory '/tmp/Rtmp4W9C7Q/R.INSTALL4a2618979f0/maps/src'
+installing to /cloud/lib/x86_64-pc-linux-gnu-library/4.1/00LOCK-maps/00new/maps/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (maps)
+* installing *binary* package ‘RColorBrewer’ ...
+* DONE (RColorBrewer)
+* installing *binary* package ‘xml2’ ...
+* DONE (xml2)
+* installing *binary* package ‘askpass’ ...
+* DONE (askpass)
+* installing *binary* package ‘purrr’ ...
+* DONE (purrr)
+* installing *binary* package ‘checkmate’ ...
+* DONE (checkmate)
+* installing *binary* package ‘RcppArmadillo’ ...
+* DONE (RcppArmadillo)
+* installing *binary* package ‘e1071’ ...
+* DONE (e1071)
+* installing *binary* package ‘wk’ ...
+* DONE (wk)
+* installing *source* package ‘lifecycle’ ...
+** package ‘lifecycle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (lifecycle)
+* installing *binary* package ‘ellipsis’ ...
+* DONE (ellipsis)
+* installing *binary* package ‘rex’ ...
+* DONE (rex)
+* installing *binary* package ‘systemfonts’ ...
+* DONE (systemfonts)
+* installing *binary* package ‘latticeExtra’ ...
+* DONE (latticeExtra)
+* installing *binary* package ‘gridExtra’ ...
+* DONE (gridExtra)
+* installing *binary* package ‘htmltools’ ...
+* DONE (htmltools)
+* installing *binary* package ‘RcppEigen’ ...
+* DONE (RcppEigen)
+* installing *binary* package ‘highr’ ...
+* DONE (highr)
+* installing *binary* package ‘stringr’ ...
+* DONE (stringr)
+* installing *binary* package ‘sandwich’ ...
+* DONE (sandwich)
+* installing *binary* package ‘tinytex’ ...
+* DONE (tinytex)
+* installing *binary* package ‘units’ ...
+* DONE (units)
+* installing *binary* package ‘cli’ ...
+* DONE (cli)
+* installing *binary* package ‘desc’ ...
+* DONE (desc)
+* installing *binary* package ‘processx’ ...
+* DONE (processx)
+* installing *binary* package ‘diffobj’ ...
+* DONE (diffobj)
+* installing *binary* package ‘mapproj’ ...
+* DONE (mapproj)
+* installing *binary* package ‘maptools’ ...
+* DONE (maptools)
+* installing *binary* package ‘munsell’ ...
+* DONE (munsell)
+* installing *binary* package ‘rgeos’ ...
+* DONE (rgeos)
+* installing *binary* package ‘openssl’ ...
+* DONE (openssl)
+* installing *binary* package ‘vctrs’ ...
+* DONE (vctrs)
+* installing *binary* package ‘textshaping’ ...
+* DONE (textshaping)
+* installing *binary* package ‘htmlwidgets’ ...
+* DONE (htmlwidgets)
+* installing *binary* package ‘conquer’ ...
+* DONE (conquer)
+* installing *binary* package ‘jquerylib’ ...
+* DONE (jquerylib)
+* installing *binary* package ‘classInt’ ...
+* DONE (classInt)
+* installing *binary* package ‘s2’ ...
+* DONE (s2)
+* installing *binary* package ‘callr’ ...
+* DONE (callr)
+* installing *binary* package ‘pkgload’ ...
+* DONE (pkgload)
+* installing *binary* package ‘scales’ ...
+* DONE (scales)
+* installing *binary* package ‘interp’ ...
+* DONE (interp)
+* installing *binary* package ‘knitr’ ...
+* DONE (knitr)
+* installing *binary* package ‘multcomp’ ...
+* DONE (multcomp)
+* installing *binary* package ‘svglite’ ...
+* DONE (svglite)
+* installing *source* package ‘pillar’ ...
+** package ‘pillar’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (pillar)
+* installing *binary* package ‘httr’ ...
+* DONE (httr)
+* installing *binary* package ‘tidyselect’ ...
+* DONE (tidyselect)
+* installing *binary* package ‘htmlTable’ ...
+* DONE (htmlTable)
+* installing *binary* package ‘ragg’ ...
+* DONE (ragg)
+* installing *binary* package ‘profvis’ ...
+* DONE (profvis)
+* installing *binary* package ‘quantreg’ ...
+* DONE (quantreg)
+* installing *binary* package ‘rmarkdown’ ...
+* DONE (rmarkdown)
+* installing *binary* package ‘sf’ ...
+* DONE (sf)
+* installing *binary* package ‘tibble’ ...
+* DONE (tibble)
+* installing *binary* package ‘covr’ ...
+* DONE (covr)
+* installing *binary* package ‘rematch2’ ...
+* DONE (rematch2)
+* installing *binary* package ‘dplyr’ ...
+* DONE (dplyr)
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+* installing *binary* package ‘viridis’ ...
+* DONE (viridis)
+* installing *binary* package ‘waldo’ ...
+* DONE (waldo)
+* installing *binary* package ‘Hmisc’ ...
+* DONE (Hmisc)
+* installing *binary* package ‘testthat’ ...
+* DONE (testthat)
+* installing *binary* package ‘vdiffr’ ...
+* DONE (vdiffr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpNb3axa/downloaded_packages’
+> library(ggplot2)
+> 
+> install.packages("ggplot2")
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/RtmpNb3axa/downloaded_packages’
+> install.packages("ggplot2",dependencies=TRUE)
+Error in install.packages : Updating loaded packages
+> install.packages("ggplot2", dependencies = TRUE)
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/RtmpNb3axa/downloaded_packages’
+> 
+> install.packages("ggplot2",dependencies=TRUE)
+Error in install.packages : Updating loaded packages
+
+Restarting R session...
+
+> install.packages("ggplot2", dependencies = TRUE)
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpxmshb3/downloaded_packages’
+> install.packages("ggplot2",dependencies=TRUE)
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpxmshb3/downloaded_packages’
+> insert data.frame(Task2)
+Error: unexpected symbol in "insert data.frame"
+> library(data.table)
+data.table 1.14.0 using 8 threads (see ?getDTthreads).  Latest news: r-datatable.com
+> install.packages(c("data", "frame"))
+Installing packages into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+Warning in install.packages :
+  packages ‘data’, ‘frame’ are not available for this version of R
+
+Versions of these packages for your version of R might be available elsewhere,
+see the ideas at
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages
+> install.packages("dataframe")
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+Warning in install.packages :
+  package ‘dataframe’ is not available for this version of R
+
+A version of this package for your version of R might be available elsewhere,
+see the ideas at
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages
+> install.packages("ggplot2",dependencies=TRUE)
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpxmshb3/downloaded_packages’
+> 
+> install.packages("ggplot2",dependencies=TRUE)
+Installing package into ‘/cloud/lib/x86_64-pc-linux-gnu-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'
+Content type 'application/x-tar' length 4134837 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpxmshb3/downloaded_packages’
