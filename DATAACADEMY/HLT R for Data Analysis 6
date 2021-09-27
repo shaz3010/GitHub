@@ -1,0 +1,5 @@
+install.packages("ggplot2")
+assign(value = x)
+x<-c(1:20)
+assign(value = y)
+y<-c(x^2)
