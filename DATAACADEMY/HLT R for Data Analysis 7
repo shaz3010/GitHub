@@ -1,0 +1,14 @@
+v=sample(-50:+50, 10, replace = TRUE)
+print("Content of the Vector:")
+print("10 random integer values between -50:+50")
+
+
+
+
+> print("10 random integer values between -50:+50")
+[1] "10 random integer values between -50:+50"
+> v=sample(-50:+50, 10, replace = TRUE)
+> print("Content of the Vector:")
+[1] "Content of the Vector:"
+> print("10 random integer values between -50:+50")
+[1] "10 random integer values between -50:+50"
